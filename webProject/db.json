@@ -1,0 +1,17 @@
+{
+    "electronice": [
+      {
+        "id": 1,
+        "name": "Esp32",
+        "img": "img/esp32.jpg",
+        "details": "ESP32 is capable of functioning reliably in industrial environments, with an operating temperature ranging from –40°C to +125°C. Powered by advanced calibration circuitries, ESP32 can dynamically remove external circuit imperfections and adapt to changes in external conditions.\nEngineered for mobile devices, wearable electronics and IoT applications, ESP32 achieves ultra-low power consumption with a combination of several types of proprietary software. ESP32 also includes state-of-the-art features, such as fine-grained clock gating, various power modes and dynamic power scaling.\nESP32 is highly-integrated with in-built antenna switches, RF balun, power amplifier, low-noise receive amplifier, filters, and power management modules. ESP32 adds priceless functionality and versatility to your applications with minimal Printed Circuit Board (PCB) requirements.\nESP32 can perform as a complete standalone system or as a slave device to a host MCU, reducing communication stack overhead on the main application processor. ESP32 can interface with other systems to provide Wi-Fi and Bluetooth functionality through its SPI / SDIO or I2C / UART interfaces."
+      },
+      {
+        "id": 2,
+        "name": "nema17",
+        "img": "img/nema17.jpg",
+        "details": "The Nema17 stepper motor is a stepper motor with an end face size of 1.7 inches x 1.7 inches. \nAvailable in single and dual shaft, 1.8° step angle and 0.9° step angle, round and cut shafts, and can be customized. \nThe driving voltage is 12-24V. The maximum speed can be as high as 2000 rpm. \nWidely used in 3D printers, engraving machines, film cutting machines and other occasions."
+      }
+      
+    ]
+  }
